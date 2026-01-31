@@ -1,0 +1,21 @@
+# macOS
+**/.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+**/*.xcuserstate
+**/xcuserdata/
+
+# Logs
+*.log
+build.log
+build_output.log
+
+# Other
+AndroidSource/
+quillpad-master/
